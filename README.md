@@ -1,7 +1,7 @@
 # Podcast Menos Plastico, Mais Futuro.
 Podcast do Curso Caixa
 
-![Imagem](Tabela.png)
+![Imagem Principal](Tabela.png)
 
 
 Utilizado o Copilot para geração do texto e ElevenLabs para conversão em áudio.
