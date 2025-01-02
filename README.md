@@ -1,7 +1,7 @@
 # Planilha inteligente Menos Plastico, Mais Futuro.
 Podcast do Curso Caixa
 
-![Imagem Tabela](Tabela2.png)
+![Imagem Tabela](tabela.png)
 
 
 Utilizado o Aplicativo Excel da Microsoft
